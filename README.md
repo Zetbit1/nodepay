@@ -1,3 +1,28 @@
+- git clone https://github.com/Solana0x/nodepay.git
+- cd nodepay
+- python3 -m venv nodepay
+- source nodepay/bin/activate
+- pip install -r requirements
+- paste np token di file node.py (line 9)
+- proxy minimal 100
+- command run, python3 node.py - Proxy one
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # NodePay Multi Account 100% Uptime FREE Python Bot [v2] Bot
 
 This Python Bot script manages WebSocket connections through specified HTTP proxies, Unlimited Proxies and multiple Nodepay Accounts handling authentication and maintaining persistent connections with a server. The script also includes functionality to periodically send ping messages to keep the connection alive forever. If you can run your pc 24/7 then you dont need a Vps or proxy server lol.
