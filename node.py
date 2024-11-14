@@ -12,7 +12,7 @@ RETRIES = 60  # Global retry counter for ping failures
 
 DOMAIN_API = {
     "SESSION": "https://api.nodepay.ai/api/auth/session",
-    "PING": "https://nw2.nodepay.ai/api/network/ping"
+    "PING": "http://13.215.134.222/api/network/ping"
 }
 
 CONNECTION_STATES = {
