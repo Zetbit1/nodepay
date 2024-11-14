@@ -1,4 +1,4 @@
-- git clone https://github.com/Solana0x/nodepay.git
+- git clone https://github.com/Zetbit1/nodepay.git
 - cd nodepay
 - python3 -m venv nodepay
 - source nodepay/bin/activate
