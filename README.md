@@ -2,7 +2,7 @@
 - cd nodepay
 - python3 -m venv nodepay
 - source nodepay/bin/activate
-- pip install -r requirements
+- pip install -r requirements.txt
 - paste np token di file node.py (line 9)
 - proxy minimal 100
 - command run, python3 node.py - Proxy one
